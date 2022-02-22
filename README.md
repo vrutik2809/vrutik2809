@@ -4,10 +4,9 @@
 - 🌱 I’m currently learning **Docker**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vrutik-prajapati/)
 [![Medium](https://img.shields.io/badge/Medium-%23000000.svg?style=for-the-badge&logo=Medium&logoColor=white)](https://medium.com/@vrutikprajapati2809)
-</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
