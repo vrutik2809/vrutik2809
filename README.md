@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vrutik Prajapati</h1>
 <h3 align="center">Web development enthusiast</h3>
 
-![](https://komarev.com/ghpvc/?username=vrutik2809&color=brightgreen)
+![](https://komarev.com/ghpvc/?username=vrutik2809&color=blue)
 
 ### :mailbox: Connect with me:</h3>
 
