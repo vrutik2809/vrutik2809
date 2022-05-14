@@ -3,28 +3,28 @@
 
 ![](https://komarev.com/ghpvc/?username=vrutik2809&color=blue)
 
-### :mailbox: Connect with me:</h3>
+### :mailbox: Connect with me
 
 [![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/vrutik2809)
 [![Linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vrutik-prajapati)
-[![Medium](https://img.shields.io/badge/Medium-%23000000.svg?style=for-the-badge&logo=Medium&logoColor=white)](https://medium.com/@vrutikprajapati2809)
+[![Medium](https://img.shields.io/badge/medium-%23000000.svg?style=for-the-badge&logo=Medium&logoColor=white)](https://medium.com/@vrutikprajapati2809)
 
+### :gear: Languages and Tools
 
-### :gear: Languages and Tools:
-
-<a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="50" height="50"/> </a>
-<a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="50" height="50"/> </a>
-<a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/> </a>
-<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="50" height="50"/> </a>
-<a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="50" height="50"/> </a>
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="50" height="50"/> </a>
-<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="50" height="50"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/> </a>
-<a href="https://www.w3schools.com/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/> </a>
-<a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50"/> </a>
-<a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="50" height="50"/> </a>
-<a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="50" height="50"/> </a>
-<a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/> </a>
-<a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="50" height="50"/> </a>
+[![C++](https://img.shields.io/badge/c++-black?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://www.w3schools.com/cpp/)
+[![Java](https://img.shields.io/badge/java-ad0017?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com)
+[![Bash](https://img.shields.io/badge/bash-000000?style=for-the-badge&logo=gnu%20bash&logoColor=white)](#)
+[![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![Django](https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white)](https://www.djangoproject.com/)
+[![NodeJs](https://img.shields.io/badge/nodejs-43853d?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org)
+[![TypeScript](https://img.shields.io/badge/typescript-0041a5?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![JavaScript](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![PostgreSQL](https://img.shields.io/badge/postgresql-13aa52?style=for-the-badge&logo=postgresql&logoColor=black)](https://www.postgresql.org)
+[![Html](https://img.shields.io/badge/html-e05125?style=for-the-badge&logo=html5&logoColor=white)](https://www.w3schools.com/html/")
+[![CSS](https://img.shields.io/badge/css-6600c1?style=for-the-badge&logo=css3&logoColor=white)](https://www.w3schools.com/css/")
+[![React](https://img.shields.io/badge/react-45b8d8?style=for-the-badge&logo=react&logoColor=black)](https://reactjs.org/")
+[![MongoDB](https://img.shields.io/badge/mongodb-13aa52?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/")
+[![Git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/")
+[![Heroku](https://img.shields.io/badge/heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)](https://heroku.com)
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vrutik2809&show_icons=true&locale=en&theme=dark" alt="vrutik2809" /></p>
