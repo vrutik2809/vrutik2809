@@ -27,4 +27,4 @@
 [![Git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/")
 [![Heroku](https://img.shields.io/badge/heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)](https://heroku.com)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vrutik2809&show_icons=true&locale=en&theme=dark" alt="vrutik2809" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vrutik2809&show_icons=true&locale=en&theme=radical" alt="vrutik2809" /></p>
