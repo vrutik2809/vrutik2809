@@ -14,7 +14,7 @@
 ![Bash](https://img.shields.io/badge/bash-000000?style=for-the-badge&logo=gnubash&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-1a73e8?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-1a73e8?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-1a73e8?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-1e64d4?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![NodeJs](https://img.shields.io/badge/nodejs-43853d?style=for-the-badge&logo=node.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-0041a5?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
